@@ -1,2 +1,2 @@
 # gittutorial
-my sample tutorial app
+my sample tutorial app for javascript
